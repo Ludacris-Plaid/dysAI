@@ -1,0 +1,8 @@
+langchain==0.3.0
+langchain-community==0.3.0
+streamlit==1.39.0
+ollama==0.3.3
+audio-recorder-streamlit==0.0.12
+streamlit-mic-recorder==0.0.9
+streamlit-TTS==0.0.4
+gtts==2.5.3
